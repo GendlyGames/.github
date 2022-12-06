@@ -5,4 +5,5 @@ More information coming soon...
 
 Releasing soon on steam. Available on [Itch.io](https://gendlygames.itch.io/longhaus)
 
-![alt text](https://github.com/GendlyGames/.github/profile/banner.png "Longhaus")
+![alt text](https://github.com/GendlyGames/.github/blob/main/profile/banner.png "Longhaus")
+
